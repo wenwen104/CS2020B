@@ -1,6 +1,9 @@
 
 資料來源維基百科 : https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B#%E7%AC%AC6%E5%B1%A4_%E8%A1%A8%E9%81%94%E5%B1%82
 
+![OSI與TCP/IP](e832e43ce763c0faf46acd2b08c49531.jpg)
+
+
 ## -----------------應用層---------------------
 第七層 應用層
 Application
