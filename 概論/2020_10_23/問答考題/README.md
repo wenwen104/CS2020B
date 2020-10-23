@@ -4,7 +4,6 @@
 ```
 說明OSI Model與 TCP/IP protocol
 ```
-![協定protocol](protocol.jpg)
 # 協定protocol
 ```
 何謂communcation protocol[簡稱協定protocol]?
