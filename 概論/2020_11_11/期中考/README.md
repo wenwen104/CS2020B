@@ -32,7 +32,7 @@
   
 # 4.蜂巢式網路 Cellular network  又稱行動網路（mobile network）
 
- 1.主流蜂巢式網路類型有：GSM、WCDMA／CDMA2000（3G）、LTE／LTE-A（4G）等。
+ 1.主流蜂巢式網路類型有：3G LITE 4G
   
  2.蜂巢式網路組成主要有以下三部分：移動站，基站子系統，網路子系統。
   
