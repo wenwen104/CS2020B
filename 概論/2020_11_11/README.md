@@ -97,7 +97,7 @@ Switch
 Bridge
 
 資料層 / 用來連接兩個相同協定網路的設備 / 主要功能在決定是否要讓資料通過橋接器，到另外一端的網路上，橋接器會檢查資料的起始位址與終止位址是否屬於同一個網路
-
+```
 (3)Router vs L3 Switch
 
 Router
@@ -107,11 +107,11 @@ Router
 Switch
 
 網路層 / L3 的交換器又稱為 IP Switch 或 Switch Router /
-
+```
 (4)Proxy
 
 網路層 / 一種特殊的網路服務，允許一個客戶端通過這個服務與另一個網路伺服器進行非直接的連接
-
+```
 7.簡述下列 簡述下列 address(位址 )的意義 與定義 在 OSI Model哪一層
 (1)PORT address
 
