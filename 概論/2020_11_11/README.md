@@ -36,24 +36,46 @@ CSS
 ```
 ### 用簡單的 自己理解 的 話 說明觀念
 ```
-底下是 同學 的 參考解答
 
-https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
-```
 
 # 2.問答與申論題 :OSI Model 與 TCP/IP protocol
 ```
 本題須清楚簡述底下主題:
 1. 解釋 communication protocol(簡稱協定 protocol)
 
+在任何物理媒介中允許兩個或多個在傳輸系統中的終端之間傳播資訊的系統標準
+
 2. Why Layering? (為何要分層 ?)
+
+目的是利用層次結構可以把開放系統的資訊交換問題分解各層可以根據需要獨立進行修改或擴充功能
 
 3. 列出 OSI Model 與 TCP/IP protocol對應圖
    註 1: 需用中英文寫出各層的名稱
    註 2:須說明 OSI Model每一層的簡略功能
+   
+   https://giboss.pixnet.net/blog/post/26798748
+   
+應用層（Application Layer） 提供為應用軟體而設計的介面 例如：HTTP、HTTPS、FTP
+表達層（Presentation Layer）數據轉換為能與接收者的系統格式相容並適合傳輸的格式
+會議層（Session Layer） 負責在數據傳輸中設定和維護電腦網路中兩台電腦之間的通訊連接
+傳輸層（Transport Layer）
+網路層（Network Layer）
+資料層（Data Link Layer）
+實體層（Physical Layer）
+
+
+
 
 4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
    (1)HTTP vs HTTPS (2) TELNET vs SSH (3)DNS (4)IP (5)ICMP
+
+
+
+
+
+
+
+
 
 5. TCP vs UDP
 [1]英文全名   
@@ -119,8 +141,10 @@ Switch
 
 (2)IP address
 
+網路層 / 任務僅僅是根據源主機和目的主機的位址來傳送資料
 
 (3)MAC address
 
+資料層 / 提供定址及媒體存取的控制方式，使得不同裝置或網路上的節點可以在多點的網路上通訊，而不會互相衝突
 
 ```
